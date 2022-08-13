@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Рабочий стол\kontra\bin\Debug\net7.0\kontra.exe
+C:\Users\admin\OneDrive\Рабочий стол\kontra\bin\Debug\net7.0\kontra.deps.json
+C:\Users\admin\OneDrive\Рабочий стол\kontra\bin\Debug\net7.0\kontra.runtimeconfig.json
+C:\Users\admin\OneDrive\Рабочий стол\kontra\bin\Debug\net7.0\kontra.dll
+C:\Users\admin\OneDrive\Рабочий стол\kontra\bin\Debug\net7.0\kontra.pdb
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.dll
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\refint\kontra.dll
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.pdb
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\kontra.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Рабочий стол\kontra\obj\Debug\net7.0\ref\kontra.dll
